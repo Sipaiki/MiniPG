@@ -9,7 +9,10 @@
 ---
 ``` JSON
 {
-  "images":[ "http://xxxxx.png", "http://xxxxx.png" ]
+    "images":[
+        "http://xxxxx.png",
+        "http://xxxxx.png"
+    ]
 }
 ```
 ---

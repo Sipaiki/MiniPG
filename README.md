@@ -7,9 +7,11 @@
 
 接口根据前端传入口令 返回壁纸列表 
 ---
+``` JSON
 {
-  "images":["http://xxxxx.png", "http://xxxxx.png"]
+  "images":[ "http://xxxxx.png", "http://xxxxx.png" ]
 }
+```
 ---
 上面返回的是缩略图的地址 可以在缩略图的基础上加上符号变成 高清图的地址 
 ---

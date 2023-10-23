@@ -26,7 +26,8 @@
 在用户点击下载的时候弹出观看广告 观看后允许下载
 
 
-## 3.用户登入接口 客户端获取抖音登入的code后 可以换取 openid、unionid, openid 是用户在当前小程序的 ID，unionid 是用户在小程序平台的唯一标识符 把unionid
+## 3.用户登入接口 
+客户端获取抖音登入的code后 可以换取 openid、unionid, openid 是用户在当前小程序的 ID，unionid 是用户在小程序平台的唯一标识符 把unionid
 传给服务端 用户第一次登入创建用户然后返回用户信息，否则直接返回用户信息 用户信息 如下JSON
 ``` JSON
 {

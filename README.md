@@ -28,9 +28,9 @@
 ``` JSON
 {
     "id" : 1,
-    “nikename” :"xxx", // 昵称
+    "nikename" :"xxx", // 昵称
     "avatar" : "http://xxx",//头像
-    “isCreator” : true //是否是创作者
+    “isCreator" : true //是否是创作者
 }
 ```
 如果是创作者需要有一个上传图片的入口 口令由服务端下发 
@@ -41,7 +41,7 @@
 创作者可以查看发布的作品
 ``` JSON
 {
-    "portfolio":【“code” 】
+    "portfolio":【"code"】
 }
 ```
 

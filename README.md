@@ -9,10 +9,13 @@
 
 ``` JSON
 {
+    "name":'xxx', //主页名字
+    "avatar":"https://",//主页头像 
+    "code":1,//主页口令
     "images":[
         "http://xxxxx.png",
         "http://xxxxx.png"
-    ]
+    ] //主页壁纸
 }
 ```
 上面返回的是缩略图的地址 可以在缩略图的基础上加上符号变成 高清图的地址 
